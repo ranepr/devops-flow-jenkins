@@ -9,7 +9,7 @@
 <body>
 <h1>APJ MDC Presales Sharing Session</h1>
 <h1>Singapore Customer Solutions Center</h1>
-<h1>Upcoming Session : Build in Cloud Demo by Pramod </h1>
+<h1>Upcoming Session :  </h1>
 <h1>Demo Register Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
