@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Demo Registration Form</title>
+<title>Blog Subscription Form</title>
 </head>
 <body>
-<h1>APJ MDC Presales Sharing Session</h1>
-<h1>Singapore Customer Solutions Center</h1>
-<h1>Upcoming Session : Build in Cloud Demo by Pramod </h1>
-<h1>Demo Register Form</h1>
+<h1>Updating Code for Blog</h1>
+<h1>BLoog Site - https://pramodrane.com</h1>
+<h1>Upcoming Blog : vRA8 Code Stream Demo with Jenkins, GitHub and Ansible </h1>
+<h1>Blog Subscription Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
@@ -30,7 +30,7 @@
 					<td><input type="password" name="password" /></td>
 				</tr>
 				<tr>
-					<td>Address</td>
+					<td>Email Address</td>
 					<td><input type="text" name="address" /></td>
 				</tr>
 				<tr>
